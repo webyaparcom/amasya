@@ -1,0 +1,2 @@
+# amasya
+Amasya Webtasarım Merkezi
